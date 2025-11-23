@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="docs/_static/logo.png" alt="BUCK Logo" width="300"/>
+    <img src="docs/_static/logo.png" alt="Colt Logo" width="300"/>
 </p>
 <h1 align="center">
     COLT
@@ -17,7 +17,7 @@ A tool for predicting the age of horses based on dental images.
 There are many ways to predict the age of horses. One common method is to
 look at the teeth structure and analyze their  wear and material patterning, but this
 requires the aid of a professional, and has not been done via AI. Other techniques have been deeply investigated
-including antler characteristics (mass, size, etc.) as well as body proportions.
+including body characteristics (mass, size, etc.) as well as body proportions.
 
 ## Antler characteristics
 Lindsay's studies have shown an increase in average antler mass as a function of

@@ -16,7 +16,7 @@ A tool for predicting the age of horses and other equine species based on dental
 ## Introduction
 There are many ways to predict the age of horses. One common method is to
 look at the teeth structure and analyze their  wear and material patterning, but this
-requires the aid of a professional. As of this update, horse age prediction via this method has not been performed with AI. Other techniques have been investigated including body characteristics (mass, size, etc.) as well as body proportions.
+requires the aid of a professional. As of this update, horse age prediction via AI has not been methodically performed or documented. Other techniques have been investigated including body characteristics (mass, size, etc.) as well as body proportions.
 
 ## Antler characteristics
 Lindsay's studies have shown an increase in average antler mass as a function of

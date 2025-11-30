@@ -12,7 +12,7 @@
 # Introduction
 A tool for predicting the age of horses and other equine species based on dental images.
 
-# Horse aging
+# Equine aging
 ## Introduction
 There are many ways to predict the age of horses. One common method is to
 look at the teeth structure and analyze their  wear and material patterning, but this

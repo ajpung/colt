@@ -33,7 +33,7 @@ Cervid Kontours). Images of the deer were taken from numerous websites,
 publications, blog posts, videos, and tutorials from a multitude of 
 institutions.
 
-BUCK is working with a small but growing dataset. Because of this, different models
+COLT is working with a small but growing dataset. Because of this, different models
 are built, compared, and optimized to find the best model for the task. The models
 include 20 canned classifiers (e.g. NaiveBayes, RandomForest, etc.) amd 35
 convolution neural networks (CNNs), implemented via transfer learning and ensemble

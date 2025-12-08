@@ -18,6 +18,8 @@ There are many ways to predict the age of horses. One common method is to
 look at the teeth structure and analyze their  wear and material patterning, but this
 requires the aid of a professional. As of this update, horse age prediction via AI has not been methodically performed or documented. Other techniques have been investigated including body characteristics (mass, size, etc.) as well as body proportions.
 
+Currently, this project suffers from data availability. 
+
 ## Antler characteristics
 Lindsay's studies have shown an increase in average antler mass as a function of
 age. This is a good indicator of age, but it requires a professional to examine each
@@ -33,7 +35,7 @@ Cervid Kontours). Images of the deer were taken from numerous websites,
 publications, blog posts, videos, and tutorials from a multitude of 
 institutions.
 
-BUCK is working with a small but growing dataset. Because of this, different models
+COLT is working with a small but growing dataset. Because of this, different models
 are built, compared, and optimized to find the best model for the task. The models
 include 20 canned classifiers (e.g. NaiveBayes, RandomForest, etc.) amd 35
 convolution neural networks (CNNs), implemented via transfer learning and ensemble

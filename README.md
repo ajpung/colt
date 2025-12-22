@@ -10,7 +10,7 @@
 
 
 # Introduction
-A tool for predicting the age of horses and other equine species based on dental images.
+A tool for predicting the age of horses and other equine species based on dental images..
 
 # Equine dental aging
 ## Introduction
